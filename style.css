@@ -22,6 +22,7 @@ h2 {
 .btn-green {
   background-color: #b0ba43;
   padding: 0.5em;
+  font-weight: bolder;
 }
 
 a {
